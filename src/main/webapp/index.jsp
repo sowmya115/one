@@ -216,6 +216,7 @@
             <input type="email" placeholder="Your Email" required>
             <textarea placeholder="Your Message" rows="5" required></textarea>
             <button type="submit">Send Message</button>
+            <button type="submit">Send Message</button>
         </form>
     </section>
 
